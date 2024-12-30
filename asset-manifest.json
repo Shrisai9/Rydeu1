@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Rydeu1/static/css/main.0edfdd2c.css",
+    "main.js": "/Rydeu1/static/js/main.41690a0f.js",
+    "static/js/488.503cda42.chunk.js": "/Rydeu1/static/js/488.503cda42.chunk.js",
+    "static/media/fontawesome-webfont.svg?v=4.7.0": "/Rydeu1/static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
+    "static/media/fontawesome-webfont.eot": "/Rydeu1/static/media/fontawesome-webfont.8b43027f47b20503057d.eot",
+    "static/media/fontawesome-webfont.ttf?v=4.7.0": "/Rydeu1/static/media/fontawesome-webfont.1e59d2330b4c6deb84b3.ttf",
+    "static/media/fontawesome-webfont.woff?v=4.7.0": "/Rydeu1/static/media/fontawesome-webfont.f691f37e57f04c152e23.woff",
+    "static/media/fontawesome-webfont.woff2?v=4.7.0": "/Rydeu1/static/media/fontawesome-webfont.20fd1704ea223900efa9.woff2",
+    "index.html": "/Rydeu1/index.html",
+    "main.0edfdd2c.css.map": "/Rydeu1/static/css/main.0edfdd2c.css.map",
+    "main.41690a0f.js.map": "/Rydeu1/static/js/main.41690a0f.js.map",
+    "488.503cda42.chunk.js.map": "/Rydeu1/static/js/488.503cda42.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0edfdd2c.css",
+    "static/js/main.41690a0f.js"
+  ]
+}
