@@ -37,6 +37,7 @@
 
 /* Intro Section */
 .intro {
+  margin-top: 10px;
   text-align: center;
   padding: 4rem 1rem;
   background: lightblue;
@@ -79,7 +80,7 @@
   padding: 1rem;
   border: 1px solid #eee;
   border-radius: 8px;
-  width: 100%; /* Ensures card fills the available space in each section */
+  width: 95%; /* Ensures card fills the available space in each section */
   margin-bottom: 1rem;
   box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
 }
@@ -192,6 +193,10 @@ textarea {
     width: 100%;
     max-width: 400px;
   }
+
+  .cards {
+    gap: 1rem;
+  }
 }
 
 /* Small Screens: max-width 768px */
@@ -222,7 +227,7 @@ textarea {
   }
 
   .cards {
-    flex-direction: column; /* Stack FAQ and Travel Guide on small screens */
+    grid-template-columns: 1fr; /* Stack cards vertically */
   }
 
   .faq-section,
@@ -262,5 +267,9 @@ textarea {
   .icon {
     font-size: 0.75rem;
     padding: 0.4rem 0.8rem;
+  }
+
+  .row {
+    width: 90%;
   }
 }
